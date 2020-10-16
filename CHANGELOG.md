@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-vision/#history
 
+### [2.0.1](https://www.github.com/googleapis/python-vision/compare/v2.0.0...v2.0.1) (2020-10-16)
+
+
+### Bug Fixes
+
+* Fixes VPCSC Tests that did not conform to V2.0.0 client API ([#61](https://www.github.com/googleapis/python-vision/issues/61)) ([efed79a](https://www.github.com/googleapis/python-vision/commit/efed79a18c2c66bccb42aa214610fa5e7f9898dc))
+
 ## [2.0.0](https://www.github.com/googleapis/python-vision/compare/v1.0.0...v2.0.0) (2020-09-29)
 
 
